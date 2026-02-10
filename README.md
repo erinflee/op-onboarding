@@ -58,7 +58,7 @@ cd backend
 npm install
 npm run dev
 ```
-The server runs on `http://localhost:3001`
+The server runs on `https://op-spring-2026-pm-technical-workshop.onrender.com`
 
 ### Frontend Setup
 ```bash
@@ -66,7 +66,7 @@ cd frontend
 npm install
 npm start
 ```
-The app runs on `http://localhost:3000`
+The app runs on `https://pm-onboarding-hc60rdoyp-erin-lees-projects-836b1957.vercel.app`
 
 ## API Endpoints
 
